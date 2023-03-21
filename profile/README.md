@@ -1,6 +1,6 @@
-<h1 align="center"> Codename Apollo </h1>
+<h1 align="center"> Codename Orion </h1>
 
-> ### Codename Apollo is a modern Arch-Linux based OS which aims to come with some innovative ideas/user-friendly lightweight expirience and also focuses on privacy
+> ### Codename Orion is a modern Arch-Linux based OS which aims to come with some innovative ideas/user-friendly lightweight expirience and also focuses on privacy
 
 ### Some Information:-
 
