@@ -1,12 +1,12 @@
 <h1 align="center"> Codename Libra </h1>
 
-> ### Codename Libra is a modern Arch-Linux based OS which aims to come with some innovative ideas/user-friendly lightweight expirience and also focuses on privacy
+> ### Project Libra is a tiny Arch Linux based distribution which is focused to add immutability to the OS 
 
 ### Some Information:-
 
-- WM:- `bspwm`
-- TERMINAL:- `kitty`
-- BROWSER:- `firefox-esr`
+- WM:- `sowm`
+- TERMINAL:- `urxvt`
+- BROWSER:- `none(install from yourself)`
 
 ### Features:-
 - Auto Dark/Light Mode
