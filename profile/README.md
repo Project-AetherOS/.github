@@ -11,7 +11,7 @@
 ### Features:-
 - Auto Dark/Light Mode
 - `proll` a simple GUI Tool to install the software you need
-- `trox` a simple GUI Tool to manage software from other distrobutions
+- `chbox` to manage other boxes of distros...
 - `wine` for windows programs
 - `cpu-autofreq`(to manage used power) and `preload`(for fast program launch)
 
