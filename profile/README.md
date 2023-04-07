@@ -1,6 +1,6 @@
 <h1 align="center"> Codename Libra </h1>
 
-> ### Project Libra is a tiny Arch Linux based distribution which is focused to add immutability to the OS 
+> ### Project Libra is tiny x86_64 based independent distro which is based on `lpks(libra package system)` and distrobox immutability 
 
 ### Some Information:-
 
